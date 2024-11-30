@@ -1,0 +1,8 @@
+Run the Program
+
+Save the code to a file named speech_recognition.py.
+
+Run the script:
+bash : python speech_recognition.py
+
+Speak into your microphone when prompted.
