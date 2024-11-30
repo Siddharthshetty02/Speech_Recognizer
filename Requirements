@@ -1,0 +1,7 @@
+
+Python 3.x
+
+Libraries:
+speech_recognition
+pyttsx3 (for text-to-speech responses)
+pyaudio (to capture audio input)
