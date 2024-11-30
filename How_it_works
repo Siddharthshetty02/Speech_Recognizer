@@ -1,0 +1,16 @@
+How It Works
+
+Initialization:
+The program initializes a speech recognizer and a text-to-speech engine.
+
+Listening:
+The microphone captures user input.
+
+Recognition:
+Converts the audio input into text using Google's Speech Recognition API.
+
+Command Processing:
+Responds to predefined commands such as "hello," "time," or "exit."
+
+Text-to-Speech:
+Provides audio feedback for the recognized commands.
