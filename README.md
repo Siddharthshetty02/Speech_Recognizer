@@ -1,4 +1,4 @@
-## Speech_Recognizer
+# Speech_Recognizer
 
 ## Overview
 This project is a Python-based Speech Recognition System that converts voice input into text and processes predefined commands. It can provide responses, perform actions like telling the time, and execute tasks based on voice commands.
