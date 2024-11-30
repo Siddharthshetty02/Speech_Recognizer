@@ -5,3 +5,6 @@ Libraries:
 speech_recognition
 pyttsx3 (for text-to-speech responses)
 pyaudio (to capture audio input)
+
+To install :
+bash : pip install SpeechRecognition pyttsx3 pyaudio
