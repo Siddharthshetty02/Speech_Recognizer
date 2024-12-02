@@ -5,4 +5,7 @@ Save the code to a file named speech_recognition.py.
 Run the script:
 bash : python speech_recognition.py
 
+Important step, install aifc module by:
+Bash : pip install standard-aifc
+
 Speak into your microphone when prompted.
